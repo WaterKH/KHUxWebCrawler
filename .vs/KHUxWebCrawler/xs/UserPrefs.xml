@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{DF2246A8-FE84-40E1-9C2F-E1A947324784}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KHUxWebCrawler/Program.cs">
+    <Files>
+      <File FileName="KHUxWebCrawler/Program.cs" Line="302" Column="126" />
+      <File FileName="KHUxWebCrawler/KHMedal.cs" Line="8" Column="9" />
+      <File FileName="KHUxWebCrawler/KHAttackMedal.cs" Line="56" Column="81" />
+      <File FileName="KHUxWebCrawler/KHMiscMedal.cs" Line="29" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.KHUxWebCrawler PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

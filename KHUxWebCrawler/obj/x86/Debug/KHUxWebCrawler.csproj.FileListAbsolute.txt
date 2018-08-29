@@ -1,0 +1,16 @@
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/bin/Debug/KHUxWebCrawler.exe
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/bin/Debug/KHUxWebCrawler.pdb
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/bin/Debug/HtmlAgilityPack.dll
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/bin/Debug/System.IO.dll
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/bin/Debug/System.Net.Http.dll
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/bin/Debug/System.Runtime.dll
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/bin/Debug/HtmlAgilityPack.pdb
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/bin/Debug/HtmlAgilityPack.xml
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/obj/x86/Debug/KHUxWebCrawler.csproj.CoreCompileInputs.cache
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/obj/x86/Debug/KHUxWebCrawler.exe
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/obj/x86/Debug/KHUxWebCrawler.pdb
+/Volumes/Jacob Clark/PersonalProjects/Repositories/KHUxWebCrawler/KHUxWebCrawler/KHUxWebCrawler/obj/x86/Debug/KHUxWebCrawler.csprojResolveAssemblyReference.cache
